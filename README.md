@@ -1,4 +1,4 @@
-# Homework 3 - User Level Thread Scheduling
+# User Level Thread Scheduling
 In this homework user level threads are scheduled in a round robin manner to count from 0 to the inputed numbers. 
 
 To observe the scheduling effect each thread has time to only print 10 numbers at its' turn. 
